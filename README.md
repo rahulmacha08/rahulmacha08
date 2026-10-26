@@ -48,7 +48,7 @@ Open to design verification and RTL design roles.
 
 ## Experience
 
-- **Trainee, VLSIFIRST** · [ADD: Month Year to Month Year]
+- **Trainee, VLSIFIRST** · [feb 2026 to sep 2026]
   - [ADD: one line on what you did and the result]
 
 ## Certifications and courses
